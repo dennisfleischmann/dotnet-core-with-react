@@ -35,6 +35,8 @@ be able to use Server Side Rendering. It is a great way to reuse all React Compo
 <code>yarn build</code>
 
 
+# Output
+
 # Run the Solution
 
 <code>cd..</code>
@@ -42,3 +44,8 @@ be able to use Server Side Rendering. It is a great way to reuse all React Compo
 <code>dotnet run</code>
 
 <code>open http://localhost:5000/</code>
+
+
+
+
+![alt tag](https://github.com/dennisfleischmann/dotnet-core-with-react/blob/master/.github/Capture.PNG)
