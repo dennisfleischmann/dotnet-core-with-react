@@ -17,35 +17,43 @@ be able to use Server Side Rendering. It is a great way to reuse all React Compo
 # Installion
 
 <p>Clone the repository</p>
-<code>git clone https://github.com/dennisfleischmann/dotnet-core-with-react.git</code>
+<pre>
+<code>git clone https://github.com/dennisfleischmann/dotnet-core-with-react.git</code></pre>
 
 <p>Change directory</p>
-<code>cd dotnet-core-with-reacts</code>
+<pre>
+<code>cd dotnet-core-with-reacts</code></pre>
 
 <p>Restore all nuget packages</p>
-<code>dotnet restore</code>
+<pre>
+<code>dotnet restore</code></pre>
 
 <p>Install node modules & run builds</p>
-<code>cd dotnet-core-with-reacts.ui/client</code>
+<pre>
+<code>cd dotnet-core-with-reacts.ui/client</code></pre>
 
 <p>Install node modules</p>
-<code>yarn install</code>
+<pre>
+<code>yarn install</code></pre>
 
 <p>Run builds</p>
-<code>yarn build</code>
+<pre>
+<code>yarn build</code></pre>
 
 
 # Output
 
-# Run the Solution
-
-<code>cd..</code>
-
-<code>dotnet run</code>
-
-<code>open http://localhost:5000/</code>
-
-
-
 
 ![alt tag](https://github.com/dennisfleischmann/dotnet-core-with-react/blob/master/.github/Capture.PNG)
+
+
+# Run the Solution
+
+<pre>
+<code>cd..</code></pre>
+<pre>
+<code>dotnet run</code></pre>
+<pre>
+<code>open http://localhost:5000/</code></pre>
+
+
