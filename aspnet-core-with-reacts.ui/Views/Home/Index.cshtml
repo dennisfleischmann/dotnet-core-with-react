@@ -1,8 +1,19 @@
-﻿<html xmlns="http://www.w3.org/1999/xhtml">
+﻿<!DOCTYPE html>
+<html>
 <head>
-    <title></title>
+    <meta charset="utf-8">
+    <title>Advanced React Starter Kit</title>
+
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/latest/css/bootstrap.min.css" />
 </head>
 <body>
-    <h1>Hello ASP.NET MVC with React!</h1>
+    <div id="app">
+        <!-- Server Side Rendering -->
+        @Html.React("App", new { })
+    </div>
+    
+    <!--Client Side -->
+    <script src="~/js/client.bundle.js"></script>    
 </body>
 </html>
