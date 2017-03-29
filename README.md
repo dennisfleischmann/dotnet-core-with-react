@@ -14,7 +14,7 @@ be able to use Server Side Rendering. It is a great way to reuse all React Compo
     <li>Webpack for our builds and bundles</li>
 </ul>
 
-# Installion
+# Installation
 
 <p>Clone the repository</p>
 <pre>
