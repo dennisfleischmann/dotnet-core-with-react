@@ -4,7 +4,7 @@
 be able to use Server Side Rendering. It is a great way to reuse all React Components to create Server Pages.</p>
 
 
-The purpose of the example is for my own investigation of Visual Studio 2017 and ASP.NET MVC Core. The technologies used include
+<p>The purpose of the example is for my own investigation of Visual Studio 2017 and ASP.NET MVC Core. The technologies used include</p>
 
 <ul>
     <li>Just released Visual Studio 2017</li>
@@ -16,22 +16,22 @@ The purpose of the example is for my own investigation of Visual Studio 2017 and
 
 # Installion
 
-Clone the repository
+<p>Clone the repository</p>
 <code>git clone https://github.com/dennisfleischmann/dotnet-core-with-react.git</code>
 
-Change directory
+<p>Change directory</p>
 <code>cd dotnet-core-with-reacts</code>
 
-Restore all nuget packages
+<p>Restore all nuget packages</p>
 <code>dotnet restore</code>
 
-Install node modules & run builds
-
+<p>Install node modules & run builds</p>
 <code>cd dotnet-core-with-reacts.ui/client</code>
+
+<p>Install node modules</p>
 <code>yarn install</code>
 
-Run builds
-
+<p>Run builds</p>
 <code>yarn build</code>
 
 

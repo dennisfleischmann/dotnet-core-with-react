@@ -27,7 +27,6 @@ obj/
 TestResults/
 node_modules/
 aspnet-core-with-reacts.ui/wwwroot/
- aspnet-core-with-reacts.ui/client/node_modules/
 ###################
 # Web publish log #
 ###################
